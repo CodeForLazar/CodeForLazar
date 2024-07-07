@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 my name is Lazar Kiridjievski?</h1>
+<h1 align="left">Hey 👋 my name is Lazar Kiridjievski</h1>
 
 ###
 
