@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 my name is Lazar Kiridjievski</h1>
-
-###
-
-<h2 align="left">About me</h2>
+<h1 align="left">Hey 👋 my name is Lazar;</h1>
 
 ###
 
