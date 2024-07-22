@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">My stack is:</h2>
+<h2 align="left">This is my stack:</h2>
 
 ###
 
@@ -38,6 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind.svg" height="40" alt="sass logo"  />
 </div>
 
 ###
